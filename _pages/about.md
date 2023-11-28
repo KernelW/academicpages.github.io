@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ke Wang. I am currently a Kadanoff fellow in University of Chicago.
+My name is Ke Wang. I am currently a postdoc researcher in University of Chicago.
